@@ -9,4 +9,4 @@ message = "
 "
 erb = ERB.new(message)
 
-puts erb.result  # => "Hello!"
+puts erb.result

@@ -1,7 +1,4 @@
-# Run the code. Change it so that it looks like the required output.
-
 require 'erb'
-require "pry"
 
 recipe = {
   name: "Roasted Brussels Sprouts",
